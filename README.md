@@ -1,2 +1,2 @@
-# Arsenal-App
-Arsenal Streamlit app
+# streamlit_arsenal
+Streamlit Arsenal project for DataScientest
